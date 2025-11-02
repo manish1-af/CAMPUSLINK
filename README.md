@@ -7,8 +7,6 @@
 
   CampusLink is a student-focused professional networking platform — a Vite + React (TypeScript) app with Tailwind UI primitives. This repository contains the front-end prototype and mock data used for development.
 
-  Live Figma design: https://www.figma.com/design/yZvdhlk5S5huZMnwcNqsJM/CampusLink-Platform-Development
-
   ## Specs
 
   - Framework: Vite + React (TypeScript)
